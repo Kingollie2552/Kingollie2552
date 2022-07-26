@@ -1,16 +1,13 @@
-### Hi there 👋
+# eggy#5555
 
-<!--
-**Kingollie2552/Kingollie2552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+         Hi, Im egg but you can call me daddy 😺 <br>
+    Familiar With: Javascript, Node.js, PHP, Python, LUA, CSS, HTML
+  </samp>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Stats
+![views](https://enm6n6mfqlcnk4b.m.pipedream.net) <br>
+![langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kingollie2552&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) </br>
+![stats](https://github-readme-stats.vercel.app/api?username=Kingollie2552&show_icons=true&locale=en&theme=chartreuse-dark)
